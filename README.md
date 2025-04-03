@@ -3,3 +3,5 @@ Smart Meal Planner is a Streamlit-based web application designed to simplify mea
 The meal planner function generates meal plans for up to seven days, randomly selecting balanced meals while storing them in an SQLite database for future reference. A grocery list generator compiles missing ingredients, making shopping hassle-free. Users can analyze their nutrition intake through interactive bar charts, line graphs, and pie charts that visualize macronutrient distribution and calorie trends over multiple days.  
 
 With a clean and intuitive interface, Smart Meal Planner ensures an effortless experience in meal organization and tracking. Future updates aim to introduce AI-powered meal optimization, additional dietary filters (such as keto and gluten-free), and enhanced security with password hashing. Whether you’re looking to eat healthier, manage your diet, or simply save time in meal planning, this app provides an efficient and user-friendly solution.
+
+The link to the website: http://localhost:8501/#3c7ce016
